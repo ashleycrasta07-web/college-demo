@@ -1,3 +1,3 @@
 # college-demo
-My first repository
+My first repository.
 Author - Ashley Crasta
